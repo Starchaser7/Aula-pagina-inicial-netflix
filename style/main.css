@@ -101,5 +101,18 @@ header nav a:hover{
 }
 
 .carrosel-filmes{
-    margin-top: 5px;
+    margin-top: 10px;
+}
+
+.item {
+    cursor: pointer;
+}
+
+.item:hover{
+    height: 101%;
+    width: 101%;
+}
+
+.links{
+    text-decoration: none;
 }
